@@ -1492,3 +1492,18 @@ section,
   flex-direction: column;
   justify-content: flex-end;
 }
+.Esent {
+  border: 2px solid #000000; 
+  background-color: #ffffff;  
+  color: #000000;             
+  padding: 10px 20px;         
+  border-radius: 5px;         
+  cursor: pointer;            
+  transition: all 0.3s ease; 
+}
+
+.Esent:hover {
+  background-color: #000000;  
+  color: #ffffff;             
+}
+/*   pushed     */

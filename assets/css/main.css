@@ -1429,6 +1429,7 @@ section,
 .img-fluid{
   width: 60%;
   height: auto;
+  border-radius: 15px;
 }
 .wheel{
   width: 90%;

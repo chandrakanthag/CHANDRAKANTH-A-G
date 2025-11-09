@@ -1523,3 +1523,12 @@ section,
     width: clamp(351px, 100%, 504px);
     height: clamp(300px, 146vh, 688px);
 }
+
+  @media (max-width: 768px) {
+
+    .col-lg-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+  }
